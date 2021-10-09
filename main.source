@@ -1,0 +1,45 @@
+for (int*& rdx = 0; engine(x) > *&rdx; *&rdx++) {
+		echo=$(if(kbhit=((engine(x))getch(*rdx=!null)))
+	}
+	for(int*& rdy = 0; engine(y) > *&rdy; *&rdy++) {
+		echo = $(if (kbhit = ((engine(y))getch(*rdy = !null)))
+	}
+	for (int*& rdz = 0; engine(z) > *&rdz; *&rdz++) {
+		echo = $(if (kbhit = ((engine(z))getch(*rdz = !null)))
+	}
+	for (int*& rdk = 0; engine(k) > *&rdk; *&rdk++) {
+		echo = $(if (kbhit = ((engine(k))getch(*rdk = !null)))
+
+	protected class int Multipartida(int*& rdx, int*& rdy, int*& rdz, int*& rdk) {
+		CallBack->class::androidstudio<packages>;
+		public gun;
+		private time[] = new array[!null>0][!null > 0][!null > 0];
+		public skin;
+		private movement[] = new array[!null > 0][!null > 0][!null > 0];
+		if (skin.get(*&rdx && *&rdy && *&rdz && *&rdk&&)) {
+			echo=$(for(*&srand(time(!null&&>*&rdk>*&rdz>*&rdy>0)))){
+			}
+		else {
+			echo = $(for (*&srand(time(!null&& > *& rdy < *& rdz < *& rdk < 0))))
+			}
+		}
+	}
+}
+	[event_souce(native)]
+	class CSource {
+	public:
+		_event void TIENDA(int tienda )//BloodStrike shopping cart
+	};
+	class CReceiver {
+	public:
+		void MyHandler(int hand1) {
+			echo=("Descubre las mejores ofertas de la semana, aquí!!", hand1);
+		}
+		void MyHandler1(int hand2) {
+			echo = ("PROMO DIARIA Llévate 3 unidades de oro + 1 de diamantes, aquí. A tan sólo 31.90!!", hand2);
+		}
+		void hookEvent(CSource* pSource) {
+		_hook(&CSource::MyEvent, pSource, &CReceiver::MyHandler1);
+		_hook(&CSource::MyEvent, pSource, &CReceiver::MyHandler2);
+		}
+	}
